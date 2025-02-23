@@ -8,6 +8,8 @@ public class HelloGit {
 		System.out.println("Hello Git");
 		
 		System.out.println("I'm lovin Git");
+		
+		System.out.println("I am really learning it");
 
 	}
 
