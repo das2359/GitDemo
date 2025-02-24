@@ -12,6 +12,8 @@ public class HelloGit {
 		System.out.println("I am really learning it");
 		
 		System.out.println("Learning git branch");
+		
+		System.out.println("pushing code to branmch from different machine");
 
 	}
 
